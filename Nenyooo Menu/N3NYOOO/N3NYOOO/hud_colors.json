@@ -1,0 +1,1642 @@
+{    "hud_colors": {
+        "HUD_COLOUR_ADVERSARY": [
+            207,
+            109,
+            34,
+            33,
+            255
+        ],
+        "HUD_COLOUR_BLACK": [
+            2,
+            0,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_BLUE": [
+            9,
+            93,
+            182,
+            229,
+            255
+        ],
+        "HUD_COLOUR_BLUEDARK": [
+            11,
+            47,
+            92,
+            115,
+            255
+        ],
+        "HUD_COLOUR_BLUELIGHT": [
+            10,
+            174,
+            219,
+            242,
+            255
+        ],
+        "HUD_COLOUR_BRIEF_TITLE": [
+            73,
+            95,
+            95,
+            95,
+            255
+        ],
+        "HUD_COLOUR_BRONZE": [
+            107,
+            180,
+            130,
+            97,
+            255
+        ],
+        "HUD_COLOUR_CHOP": [
+            162,
+            224,
+            50,
+            50,
+            255
+        ],
+        "HUD_COLOUR_CONTROLLER_CHOP": [
+            174,
+            127,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_CONTROLLER_FRANKLIN": [
+            172,
+            48,
+            255,
+            0,
+            255
+        ],
+        "HUD_COLOUR_CONTROLLER_MICHAEL": [
+            171,
+            48,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_CONTROLLER_TREVOR": [
+            173,
+            176,
+            80,
+            0,
+            255
+        ],
+        "HUD_COLOUR_CS": [
+            218,
+            206,
+            169,
+            13,
+            255
+        ],
+        "HUD_COLOUR_CS_DARK": [
+            219,
+            103,
+            84,
+            6,
+            255
+        ],
+        "HUD_COLOUR_DAMAGE": [
+            125,
+            194,
+            80,
+            80,
+            255
+        ],
+        "HUD_COLOUR_DARTS": [
+            141,
+            114,
+            204,
+            114,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_BLUE": [
+            212,
+            0,
+            0,
+            255,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_CYAN": [
+            211,
+            0,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_GREEN": [
+            210,
+            0,
+            255,
+            0,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_MAGENTA": [
+            213,
+            255,
+            0,
+            255,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_RED": [
+            208,
+            255,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_DEGEN_YELLOW": [
+            209,
+            255,
+            255,
+            0,
+            255
+        ],
+        "HUD_COLOUR_END_SCREEN_BG": [
+            161,
+            0,
+            0,
+            0,
+            186
+        ],
+        "HUD_COLOUR_ENEMY": [
+            119,
+            194,
+            80,
+            80,
+            255
+        ],
+        "HUD_COLOUR_FACEBOOK_BLUE": [
+            139,
+            66,
+            89,
+            148,
+            255
+        ],
+        "HUD_COLOUR_FLIGHT_SCHOOL": [
+            133,
+            47,
+            92,
+            115,
+            255
+        ],
+        "HUD_COLOUR_FRANKLIN": [
+            144,
+            171,
+            237,
+            171,
+            255
+        ],
+        "HUD_COLOUR_FRANKLIN_DARK": [
+            154,
+            85,
+            118,
+            85,
+            255
+        ],
+        "HUD_COLOUR_FREEMODE": [
+            116,
+            45,
+            110,
+            185,
+            255
+        ],
+        "HUD_COLOUR_FREEMODE_DARK": [
+            123,
+            22,
+            55,
+            92,
+            255
+        ],
+        "HUD_COLOUR_FRIENDLY": [
+            118,
+            93,
+            182,
+            229,
+            255
+        ],
+        "HUD_COLOUR_G1": [
+            192,
+            247,
+            159,
+            123,
+            255
+        ],
+        "HUD_COLOUR_G10": [
+            201,
+            216,
+            85,
+            117,
+            255
+        ],
+        "HUD_COLOUR_G11": [
+            202,
+            30,
+            100,
+            152,
+            255
+        ],
+        "HUD_COLOUR_G12": [
+            203,
+            43,
+            181,
+            117,
+            255
+        ],
+        "HUD_COLOUR_G13": [
+            204,
+            233,
+            141,
+            79,
+            255
+        ],
+        "HUD_COLOUR_G14": [
+            205,
+            137,
+            210,
+            215,
+            255
+        ],
+        "HUD_COLOUR_G15": [
+            206,
+            134,
+            125,
+            141,
+            255
+        ],
+        "HUD_COLOUR_G2": [
+            193,
+            226,
+            134,
+            187,
+            255
+        ],
+        "HUD_COLOUR_G3": [
+            194,
+            239,
+            238,
+            151,
+            255
+        ],
+        "HUD_COLOUR_G4": [
+            195,
+            113,
+            169,
+            175,
+            255
+        ],
+        "HUD_COLOUR_G5": [
+            196,
+            160,
+            140,
+            193,
+            255
+        ],
+        "HUD_COLOUR_G6": [
+            197,
+            141,
+            206,
+            167,
+            255
+        ],
+        "HUD_COLOUR_G7": [
+            198,
+            181,
+            214,
+            234,
+            255
+        ],
+        "HUD_COLOUR_G8": [
+            199,
+            178,
+            144,
+            132,
+            255
+        ],
+        "HUD_COLOUR_G9": [
+            200,
+            0,
+            132,
+            114,
+            255
+        ],
+        "HUD_COLOUR_GANG1": [
+            111,
+            29,
+            100,
+            153,
+            255
+        ],
+        "HUD_COLOUR_GANG2": [
+            112,
+            214,
+            116,
+            15,
+            255
+        ],
+        "HUD_COLOUR_GANG3": [
+            113,
+            135,
+            125,
+            142,
+            255
+        ],
+        "HUD_COLOUR_GANG4": [
+            114,
+            229,
+            119,
+            185,
+            255
+        ],
+        "HUD_COLOUR_GOLD": [
+            109,
+            214,
+            181,
+            99,
+            255
+        ],
+        "HUD_COLOUR_GOLF": [
+            131,
+            214,
+            189,
+            97,
+            255
+        ],
+        "HUD_COLOUR_GOLF_P1": [
+            146,
+            240,
+            240,
+            240,
+            255
+        ],
+        "HUD_COLOUR_GOLF_P2": [
+            147,
+            235,
+            239,
+            30,
+            255
+        ],
+        "HUD_COLOUR_GOLF_P3": [
+            148,
+            255,
+            149,
+            14,
+            255
+        ],
+        "HUD_COLOUR_GOLF_P4": [
+            149,
+            246,
+            60,
+            161,
+            255
+        ],
+  "HUD_COLOUR_GREEN": [
+    18,
+    114,
+    204,
+    114,
+    255
+  ],
+        "HUD_COLOUR_GREENDARK": [
+            20,
+            57,
+            102,
+            57,
+            255
+        ],
+        "HUD_COLOUR_GREENLIGHT": [
+            19,
+            185,
+            230,
+            185,
+            255
+        ],
+        "HUD_COLOUR_GREY": [
+            3,
+            155,
+            155,
+            155,
+            255
+        ],
+        "HUD_COLOUR_GREYDARK": [
+            5,
+            77,
+            77,
+            77,
+            255
+        ],
+        "HUD_COLOUR_GREYLIGHT": [
+            4,
+            205,
+            205,
+            205,
+            255
+        ],
+        "HUD_COLOUR_H": [
+            166,
+            33,
+            118,
+            37,
+            255
+        ],
+        "HUD_COLOUR_HB_BLUE": [
+            178,
+            29,
+            100,
+            153,
+            255
+        ],
+        "HUD_COLOUR_HB_YELLOW": [
+            179,
+            234,
+            153,
+            28,
+            255
+        ],
+        "HUD_COLOUR_HDARK": [
+            167,
+            37,
+            102,
+            40,
+            255
+        ],
+        "HUD_COLOUR_HEIST_BACKGROUND": [
+            184,
+            37,
+            102,
+            40,
+            186
+        ],
+        "HUD_COLOUR_HSHARD": [
+            170,
+            20,
+            40,
+            0,
+            255
+        ],
+        "HUD_COLOUR_INACTIVE_MISSION": [
+            124,
+            154,
+            154,
+            154,
+            255
+        ],
+        "HUD_COLOUR_INGAME_BG": [
+            140,
+            0,
+            0,
+            0,
+            186
+        ],
+        "HUD_COLOUR_LOCATION": [
+            120,
+            240,
+            200,
+            80,
+            255
+        ],
+        "HUD_COLOUR_LOW_FLOW": [
+            190,
+            240,
+            200,
+            80,
+            255
+        ],
+        "HUD_COLOUR_LOW_FLOW_DARK": [
+            191,
+            14,
+            126,
+            107,
+            41,
+            255
+        ],
+        "HUD_COLOUR_MENU_BLUE": [
+            61,
+            140,
+            140,
+            140,
+            255
+        ],
+        "HUD_COLOUR_MENU_BLUE_EXTRA_DARK": [
+            63,
+            40,
+            40,
+            40,
+            255
+        ],
+        "HUD_COLOUR_MENU_DIMMED": [
+            71,
+            75,
+            75,
+            75,
+            255
+        ],
+        "HUD_COLOUR_MENU_EXTRA_DIMMED": [
+            72,
+            50,
+            50,
+            50,
+            255
+        ],
+        "HUD_COLOUR_MENU_GREEN": [
+            66,
+            240,
+            160,
+            0,
+            255
+        ],
+        "HUD_COLOUR_MENU_GREY": [
+            67,
+            140,
+            140,
+            140,
+            255
+        ],
+        "HUD_COLOUR_MENU_GREY_DARK": [
+            68,
+            60,
+            60,
+            60,
+            255
+        ],
+        "HUD_COLOUR_MENU_GREY_LIGHT": [
+            62,
+            140,
+            140,
+            140,
+            255
+        ],
+        "HUD_COLOUR_MENU_HIGHLIGHT": [
+            69,
+            30,
+            30,
+            30,
+            255
+        ],
+        "HUD_COLOUR_MENU_STANDARD": [
+            70,
+            140,
+            140,
+            140,
+            255
+        ],
+        "HUD_COLOUR_MENU_YELLOW": [
+            64,
+            240,
+            160,
+            0,
+            255
+        ],
+        "HUD_COLOUR_MENU_YELLOW_DARK": [
+            65,
+            240,
+            160,
+            0,
+            255
+        ],
+        "HUD_COLOUR_MICHAEL": [
+            143,
+            101,
+            180,
+            212,
+            255
+        ],
+        "HUD_COLOUR_MICHAEL_DARK": [
+            153,
+            72,
+            103,
+            116,
+            255
+        ],
+        "HUD_COLOUR_MID_GREY_MP": [
+            74,
+            100,
+            100,
+            100,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER1": [
+            28,
+            194,
+            80,
+            80,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER10": [
+            37,
+            106,
+            196,
+            191,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER10_DARK": [
+            84,
+            53,
+            98,
+            95,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER11": [
+            38,
+            214,
+            196,
+            153,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER11_DARK": [
+            85,
+            107,
+            98,
+            76,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER12": [
+            39,
+            234,
+            142,
+            80,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER12_DARK": [
+            86,
+            117,
+            71,
+            40,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER13": [
+            40,
+            152,
+            203,
+            234,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER13_DARK": [
+            87,
+            76,
+            101,
+            117,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER14": [
+            41,
+            178,
+            98,
+            135,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER14_DARK": [
+            88,
+            65,
+            35,
+            47,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER15": [
+            42,
+            144,
+            142,
+            122,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER15_DARK": [
+            89,
+            72,
+            71,
+            61,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER16": [
+            43,
+            166,
+            117,
+            94,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER16_DARK": [
+            90,
+            85,
+            58,
+            47,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER17": [
+            44,
+            175,
+            168,
+            168,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER17_DARK": [
+            91,
+            87,
+            84,
+            84,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER18": [
+            45,
+            232,
+            142,
+            155,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER18_DARK": [
+            92,
+            116,
+            71,
+            77,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER19": [
+            46,
+            187,
+            214,
+            91,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER19_DARK": [
+            93,
+            93,
+            107,
+            45,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER1_DARK": [
+            75,
+            93,
+            39,
+            39,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER2": [
+            29,
+            156,
+            110,
+            175,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER20": [
+            47,
+            12,
+            123,
+            86,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER20_DARK": [
+            94,
+            6,
+            61,
+            43,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER21": [
+            48,
+            123,
+            196,
+            255,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER21_DARK": [
+            95,
+            61,
+            98,
+            127,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER22": [
+            49,
+            171,
+            60,
+            230,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER22_DARK": [
+            96,
+            85,
+            30,
+            115,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER23": [
+            50,
+            206,
+            169,
+            13,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER23_DARK": [
+            97,
+            103,
+            84,
+            6,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER24": [
+            51,
+            71,
+            99,
+            173,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER24_DARK": [
+            98,
+            35,
+            49,
+            86,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER25": [
+            52,
+            42,
+            166,
+            185,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER25_DARK": [
+            99,
+            21,
+            83,
+            92,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER26": [
+            53,
+            186,
+            157,
+            125,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER26_DARK": [
+            100,
+            93,
+            98,
+            62,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER27": [
+            54,
+            201,
+            225,
+            255,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER27_DARK": [
+            101,
+            100,
+            112,
+            127,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER28": [
+            55,
+            240,
+            240,
+            150,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER28_DARK": [
+            102,
+            120,
+            120,
+            75,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER29": [
+            56,
+            237,
+            140,
+            161,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER29_DARK": [
+            103,
+            152,
+            76,
+            93,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER2_DARK": [
+            76,
+            77,
+            55,
+            89,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER3": [
+            30,
+            255,
+            123,
+            196,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER30": [
+            57,
+            249,
+            138,
+            138,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER30_DARK": [
+            104,
+            124,
+            69,
+            69,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER31": [
+            58,
+            252,
+            239,
+            166,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER31_DARK": [
+            105,
+            10,
+            43,
+            50,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER32": [
+            59,
+            240,
+            240,
+            240,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER32_DARK": [
+            106,
+            95,
+            95,
+            10,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER3_DARK": [
+            77,
+            124,
+            62,
+            99,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER4": [
+            31,
+            247,
+            159,
+            123,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER4_DARK": [
+            78,
+            120,
+            80,
+            80,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER5": [
+            32,
+            178,
+            144,
+            132,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER5_DARK": [
+            79,
+            87,
+            72,
+            66,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER6": [
+            33,
+            141,
+            206,
+            167,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER6_DARK": [
+            80,
+            74,
+            103,
+            83,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER7": [
+            34,
+            113,
+            169,
+            175,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER7_DARK": [
+            81,
+            60,
+            85,
+            88,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER8": [
+            35,
+            211,
+            209,
+            231,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER8_DARK": [
+            82,
+            105,
+            105,
+            64,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER9": [
+            36,
+            144,
+            127,
+            153,
+            255
+        ],
+        "HUD_COLOUR_NET_PLAYER9_DARK": [
+            83,
+            72,
+            63,
+            76,
+            255
+        ],
+        "HUD_COLOUR_NORTH_BLUE": [
+            134,
+            93,
+            182,
+            229,
+            255
+        ],
+        "HUD_COLOUR_NORTH_BLUE_OFFICIAL": [
+            164,
+            0,
+            71,
+            133,
+            255
+        ],
+        "HUD_COLOUR_OBJECTIVE_ROUTE": [
+            156,
+            240,
+            200,
+            80,
+            255
+        ],
+        "HUD_COLOUR_ORANGE": [
+            15,
+            255,
+            133,
+            85,
+            255
+        ],
+        "HUD_COLOUR_ORANGEDARK": [
+            17,
+            127,
+            66,
+            42,
+            255
+        ],
+        "HUD_COLOUR_ORANGELIGHT": [
+            16,
+            255,
+            194,
+            170,
+            255
+        ],
+        "HUD_COLOUR_PANEL_LIGHT": [
+            152,
+            0,
+            0,
+            0,
+            77
+        ],
+        "HUD_COLOUR_PAUSEMAP_TINT": [
+            157,
+            0,
+            0,
+            0,
+            215
+        ],
+        "HUD_COLOUR_PAUSEMAP_TINT_HALF": [
+            163,
+            0,
+            0,
+            0,
+            215
+        ],
+        "HUD_COLOUR_PAUSE_BG": [
+            117,
+            11,
+            55,
+            123,
+            186
+        ],
+        "HUD_COLOUR_PAUSE_DESELECT": [
+            158,
+            100,
+            100,
+            100,
+            127
+        ],
+        "HUD_COLOUR_PAUSE_SINGLEPLAYER": [
+            122,
+            114,
+            204,
+            114,
+            255
+        ],
+        "HUD_COLOUR_PICKUP": [
+            121,
+            114,
+            204,
+            114,
+            255
+        ],
+        "HUD_COLOUR_PINK": [
+            24,
+            203,
+            54,
+            148,
+            255
+        ],
+        "HUD_COLOUR_PINKLIGHT": [
+            126,
+            252,
+            115,
+            201,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_01": [
+            224,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_02": [
+            225,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_03": [
+            226,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_04": [
+            227,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_05": [
+            228,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_06": [
+            229,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_07": [
+            230,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_08": [
+            231,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_09": [
+            232,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLACEHOLDER_10": [
+            233,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PLATFORM_BLUE": [
+            136,
+            11,
+            55,
+            123,
+            255
+        ],
+        "HUD_COLOUR_PLATFORM_GREEN": [
+            137,
+            146,
+            200,
+            62,
+            255
+        ],
+        "HUD_COLOUR_PLATFORM_GREY": [
+            138,
+            234,
+            153,
+            28,
+            255
+        ],
+        "HUD_COLOUR_PLATINUM": [
+            110,
+            166,
+            221,
+            190,
+            255
+        ],
+        "HUD_COLOUR_PM_MITEM_HIGHLIGHT": [
+            127,
+            252,
+            177,
+            49,
+            255
+        ],
+        "HUD_COLOUR_PM_WEAPONS_LOCKED": [
+            160,
+            240,
+            240,
+            240,
+            191
+        ],
+        "HUD_COLOUR_PM_WEAPONS_PURCHASABLE": [
+            159,
+            45,
+            110,
+            185,
+            255
+        ],
+        "HUD_COLOUR_PURE_WHITE": [
+            0,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_PURPLE": [
+            21,
+            132,
+            102,
+            226,
+            255
+        ],
+        "HUD_COLOUR_PURPLEDARK": [
+            23,
+            67,
+            57,
+            111,
+            255
+        ],
+        "HUD_COLOUR_PURPLELIGHT": [
+            22,
+            192,
+            179,
+            239,
+            255
+        ],
+        "HUD_COLOUR_RADAR_ARMOUR": [
+            26,
+            93,
+            182,
+            229,
+            255
+        ],
+        "HUD_COLOUR_RADAR_DAMAGE": [
+            27,
+            235,
+            36,
+            39,
+            255
+        ],
+        "HUD_COLOUR_RADAR_HEALTH": [
+            25,
+            53,
+            154,
+            71,
+            255
+        ],
+        "HUD_COLOUR_RED": [
+            6,
+            224,
+            50,
+            50,
+            255
+        ],
+        "HUD_COLOUR_REDDARK": [
+            8,
+            112,
+            25,
+            25,
+            255
+        ],
+        "HUD_COLOUR_REDLIGHT": [
+            7,
+            240,
+            153,
+            153,
+            255
+        ],
+        "HUD_COLOUR_SAME_CREW": [
+            115,
+            252,
+            239,
+            166,
+            255
+        ],
+        "HUD_COLOUR_SCRIPT_VARIABLE": [
+            128,
+            0,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_SCRIPT_VARIABLE_2": [
+            165,
+            0,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_SHOOTING_RANGE": [
+            132,
+            112,
+            25,
+            25,
+            255
+        ],
+        "HUD_COLOUR_SILVER": [
+            108,
+            150,
+            153,
+            161,
+            255
+        ],
+        "HUD_COLOUR_SIMPLEBLIP_DEFAULT": [
+            60,
+            159,
+            201,
+            166,
+            255
+        ],
+        "HUD_COLOUR_SOCIAL_CLUB": [
+            135,
+            234,
+            153,
+            28,
+            255
+        ],
+        "HUD_COLOUR_SPECIAL_RACE_SERIES": [
+            216,
+            154,
+            178,
+            54,
+            255
+        ],
+        "HUD_COLOUR_SPECIAL_RACE_SERIES_DARK": [
+            217,
+            93,
+            107,
+            45,
+            255
+        ],
+        "HUD_COLOUR_STUNT_1": [
+            214,
+            38,
+            136,
+            234,
+            255
+        ],
+        "HUD_COLOUR_STUNT_2": [
+            215,
+            224,
+            50,
+            50,
+            255
+        ],
+        "HUD_COLOUR_T": [
+            168,
+            234,
+            153,
+            28,
+            255
+        ],
+        "HUD_COLOUR_TDARK": [
+            169,
+            225,
+            140,
+            8,
+            255
+        ],
+        "HUD_COLOUR_TECH_GREEN": [
+            220,
+            0,
+            151,
+            151,
+            255
+        ],
+        "HUD_COLOUR_TECH_GREEN_DARK": [
+            221,
+            5,
+            119,
+            113,
+            255
+        ],
+        "HUD_COLOUR_TECH_GREEN_VERY_DARK": [
+            223,
+            0,
+            40,
+            40,
+            255
+        ],
+        "HUD_COLOUR_TECH_RED": [
+            222,
+            151,
+            0,
+            0,
+            255
+        ],
+        "HUD_COLOUR_TENNIS": [
+            130,
+            241,
+            101,
+            34,
+            255
+        ],
+        "HUD_COLOUR_TREVOR": [
+            145,
+            255,
+            163,
+            87,
+            255
+        ],
+        "HUD_COLOUR_TREVOR_DARK": [
+            155,
+            127,
+            81,
+            43,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AMBIENT": [
+            185,
+            240,
+            200,
+            80,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AMBIENT_DARK": [
+            187,
+            255,
+            133,
+            85,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AMBIENT_FADEOUT": [
+            186,
+            80,
+            70,
+            34,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AMBIENT_LIGHT": [
+            188,
+            255,
+            194,
+            170,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AMBIENT_MID": [
+            189,
+            255,
+            133,
+            85,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AUDIO": [
+            176,
+            162,
+            79,
+            157,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_AUDIO_FADEOUT": [
+            181,
+            59,
+            34,
+            57,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_SCORE": [
+            180,
+            240,
+            160,
+            1,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_SCORE_FADEOUT": [
+            183,
+            82,
+            58,
+            10,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_TEXT": [
+            177,
+            104,
+            192,
+            141,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_TEXT_FADEOUT": [
+            182,
+            41,
+            68,
+            53,
+            255
+        ],
+        "HUD_COLOUR_VIDEO_EDITOR_VIDEO": [
+            175,
+            53,
+            166,
+            224,
+            255
+        ],
+        "HUD_COLOUR_WAYPOINT": [
+            142,
+            164,
+            76,
+            242,
+            255
+        ],
+        "HUD_COLOUR_WAYPOINTDARK": [
+            151,
+            82,
+            38,
+            121,
+            255
+        ],
+        "HUD_COLOUR_WAYPOINTLIGHT": [
+            150,
+            210,
+            166,
+            249,
+            255
+        ],
+        "HUD_COLOUR_WHITE": [
+            1,
+            255,
+            255,
+            255,
+            255
+        ],
+        "HUD_COLOUR_YELLOW": [
+            12,
+            240,
+            200,
+            80,
+            255
+        ],
+        "HUD_COLOUR_YELLOWDARK": [
+            14,
+            126,
+            107,
+            41,
+            255
+        ],
+        "HUD_COLOUR_YELLOWLIGHT": [
+            13,
+            254,
+            235,
+            169,
+            255
+        ],
+        "HUD_COLOUR_YOGA": [
+            129,
+            109,
+            247,
+            204,
+            255
+        ]
+    }
+}

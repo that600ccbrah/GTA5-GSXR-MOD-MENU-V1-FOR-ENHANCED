@@ -1,0 +1,72 @@
+{
+    "ANIMATED_GIF_DELAY": 30,
+    "AUTO_DPI": true,
+    "DISCORD_RPC": true,
+    "DPI": 1.0,
+    "Footer": {
+        "footer_arrows_rgba": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "footer_rgba": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    "GIGGLE": true,
+    "GIGGLE_SIZE": 3000.0,
+    "Header_Type": 1,
+    "INFO_BAR": false,
+    "LOG_WINDOW": true,
+    "MENU_KEY": 115,
+    "SPOONER_KEY": 117,
+    "STATS_POS": 0,
+    "X": -139550.0,
+    "Y": 100050.0,
+    "header": {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    "option": {
+        "background": [
+            0,
+            0,
+            0,
+            235
+        ],
+        "borders": [
+            80,
+            145,
+            255,
+            170
+        ],
+        "selected_option": [
+            80,
+            125,
+            255,
+            246
+        ],
+        "text": {
+            "text_rgba": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "text_rgba_active": [
+                0,
+                0,
+                0,
+                255
+            ]
+        }
+    }
+}

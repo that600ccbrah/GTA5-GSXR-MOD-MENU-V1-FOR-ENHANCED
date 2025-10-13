@@ -1,0 +1,20 @@
+ 2025-05-08 18:04:35 [INFO] Init Time: 441.011 ms
+ 2025-05-08 18:04:35 [INFO] Welcome to Nenyoo
+ 2025-05-08 18:04:35 [INFO] Initializing
+ 2025-05-08 18:04:35 [INFO] UI Settings Loaded.
+ 2025-05-08 18:04:35 [INFO] Settings Loaded.
+ 2025-05-08 18:04:35 [INFO] Teleports Loaded.
+ 2025-05-08 18:04:35 [INFO] Animations Loaded.
+ 2025-05-08 18:04:35 [INFO] Hud Colors Loaded.
+ 2025-05-08 18:04:35 [INFO] Easy Anti Cheat Patches Applied 12/12.
+ 2025-05-08 18:04:35 [INFO] Using DX12, clear shader cache if you're having issues.
+ 2025-05-08 18:04:35 [INFO] DirectX 12 renderer is initializing...
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\header\header.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\scroller\Options.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\scroller\Selected.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\scroller\Footer.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\icons\ToggleOn.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\icons\ToggleOff.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\icons\Arrows.png
+ 2025-05-08 18:04:35 [INFO] Loading texture: C:\N3NYOOO\ui\icons\Locked.png
+ 2025-05-08 18:04:35 [FATAL] Texture not found: C:\N3NYOOO\Speedometer\speedometer.png exiting..
